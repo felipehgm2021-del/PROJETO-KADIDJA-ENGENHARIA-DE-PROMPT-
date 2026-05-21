@@ -20,8 +20,7 @@ Geração automática de cupom com código único e QR Code para retirada físic
 
 🖥️ Protótipo
 
-Link do Protótipo: [Cole aqui o link do seu Bolt.new, StackBlitz ou Vercel]
-
+Link do Protótipo: https://agent-6a0e4d7570a88f5e68cfe270--ecoresgate.netlify.app
 Painel
 
 Breve explicação: O usuário acessa o painel e pode ver o que está disponível perto dele. Ao clicar em reservar, o estoque da "Sacola Surpresa" diminui na hora e o sistema gera um cupom de retirada exclusivo. Se o usuário mudar o perfil para "Estabelecimento", ele pode simular o cadastro de um novo lote de comida que aparece instantaneamente no feed graças ao salvamento reativo.
