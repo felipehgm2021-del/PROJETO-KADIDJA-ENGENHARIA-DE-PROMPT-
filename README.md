@@ -21,13 +21,13 @@ Geração automática de cupom com código único e QR Code para retirada físic
 🖥️ Protótipo
 
 Link do Protótipo: https://agent-6a0e4d7570a88f5e68cfe270--ecoresgate.netlify.app
-Painel
 
 Breve explicação: O usuário acessa o painel e pode ver o que está disponível perto dele. Ao clicar em reservar, o estoque da "Sacola Surpresa" diminui na hora e o sistema gera um cupom de retirada exclusivo. Se o usuário mudar o perfil para "Estabelecimento", ele pode simular o cadastro de um novo lote de comida que aparece instantaneamente no feed graças ao salvamento reativo.
 
 ⚙️ Plataforma Utilizada
 
-Plataforma: * Gemini (IA) + StackBlitz / Bolt.new (Vibe-coding)
+Plataforma: * Gemini (IA) + StackBlitz / Bolt.new (Vibe-coding) / Deploy usando Netfily
+
 
 Justificativa da escolha:
 A abordagem de Vibe-coding foi escolhida por permitir o desenvolvimento de uma interface web 100% personalizada e responsiva em tempo recorde. Usando React e Tailwind CSS com o auxílio da inteligência artificial, foi possível construir um app interativo e funcional que roda direto no navegador, sem as limitações visuais de ferramentas No-code engessadas e sem qualquer custo de publicação.
