@@ -1,4 +1,4 @@
-# Projeto Módulo 3 – Low Code/No Code/Vibecode
+# Projeto Módulo 3 – Vibecode
 
 📌 Desafio Escolhido
 
@@ -65,16 +65,6 @@ IA como assistente de arquitetura: Uso estratégico da IA para criar a estrutura
 👥 Colaboração
 
 Desenvolvimento 100% Individual: Por se tratar de um projeto solo, todas as atividades de planejamento, design, programação com assistência de IA, controle de qualidade (testes) e documentação foram realizadas pelo próprio aluno de forma integrada.
-
-📝 Registro da Aula
-
-Data: 18/05/2026
-
-Atividade: Discussão crítica + miniprojeto de aplicação
-
-Local: Laboratório de informática / Quadro branco
-
-Professor(a): Kadidja Valéria
 
 🚀 Próximos Passos
 
