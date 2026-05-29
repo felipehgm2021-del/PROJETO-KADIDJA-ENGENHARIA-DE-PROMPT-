@@ -12,7 +12,7 @@ Painel do Consumidor: Permite que o utilizador filtre alimentos excedentes por c
 
 Painel do Parceiro: Permite que os estabelecimentos cadastrem de forma simples os seus excedentes alimentares e publiquem as ofertas diretamente na vitrine.
 O funcionamento do aplicativo ocorre através de transições de telas e controle de variáveis configuradas na plataforma de design, eliminando a escrita manual de código front-end e agilizando as validações de usabilidade.
-Você pode acessar como ficou o protótipo por aqui: EcoResgate-Dashboard-Prototype
+Você pode acessar como ficou o protótipo por aqui: https://www.figma.com/make/9WlUwHaByOCv5x1ybQGN5o/EcoResgate-Dashboard-Prototype?p=f&t=z8fNG8T5O3NqNd9w-0&fullscreen=1
 
 ⚙️ Plataforma Utilizada
 
